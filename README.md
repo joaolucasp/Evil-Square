@@ -5,8 +5,9 @@
 ![screen2](https://user-images.githubusercontent.com/61102108/149201609-097cff5d-5341-49a6-b91d-ae0dc6ed3f2f.png)
 
 
-### Video explicativo
-https://drive.google.com/file/d/15_XZWoxpiOITLKozNe7TU3F1zaieRQLu/view
+### Como executar o jogo em ambiente Windows
+> Após fazer o download do diretório, executar o arquivo Sublime Text 3 encontrado em: ...\Evil-Square\Sublime Text 3.
+Em seguida, abra o arquivo nomeado como "EvilSquare.asm" (encontrado na pasta principal) dentro da IDE. Aperte F7 e pronto! O jogo será executado!
 
 ## **Descrição**
 > Fuja de soldados ao longo dos corredores do castelo de um Rei insano. <br> Este é um jogo singleplayer desenvolvido em assembly.
