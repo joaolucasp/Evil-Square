@@ -1,3 +1,6 @@
+![GitHub repo size](https://img.shields.io/github/repo-size/joaolucasp/Evil-Square)
+![GitHub](https://img.shields.io/github/license/joaolucasp/Evil-Square)
+![GitHub watchers](https://img.shields.io/github/watchers/joaolucasp/Evil-Square?style=social)
 
 # **Evil Square**
 
